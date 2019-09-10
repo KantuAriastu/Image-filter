@@ -1,0 +1,15 @@
+﻿  matrix.cpp
+matrix.cpp(48): warning C4101: 'j': unreferenced local variable
+matrix.cpp(273): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+matrix.cpp(292): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+matrix.cpp(294): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+matrix.cpp(298): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+matrix.cpp(400): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\hack_\onedrive\desktop\arsikompar\imagpro\matrix.cpp(58): warning C4700: uninitialized local variable 'rc' used
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  matrix.vcxproj -> C:\Users\hack_\OneDrive\Desktop\Arsikompar\Imagpro\x64\Debug\matrix.exe
